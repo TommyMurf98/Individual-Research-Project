@@ -16,6 +16,7 @@ Here’s a breakdown of the files and their purposes:
 In summary, the project examines how weapon choices and balance in *Warzone 2* influence gameplay, using a combination of survey data and analysis tools developed in Python. The findings aim to shed light on how game publishers manage weapon variety and balance in battle royale games.
 
 Code Description
+
 The Jupyter notebook is structured to analyze data collected from a questionnaire, focusing on player preferences and behavior in the game *Call of Duty: Warzone 2*. Here's a breakdown of the key parts of the code:
 
 1. **Imports and Setup**: 
